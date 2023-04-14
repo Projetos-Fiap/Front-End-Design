@@ -13,7 +13,7 @@ CP1 de Front-End (04-04-23)
 
 <li>Lucas Feijó RM99727</li>
   
-<li>Victor Maia RM99658</li>
+<li>Vitor Maia RM99658</li>
 
 </ol>
 
